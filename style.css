@@ -1,0 +1,56 @@
+body {
+  font-family: "Roboto Mono", monospace;
+  min-height: 100vh;
+  background: url("https://s2.glbimg.com/R-77SlaLCbmw6hF1VL_4r67aTs4=/0x0:984x443/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/P/p/UghwtDR4KGMwyYn1qc1A/magazine-luiza-a-transformacao-digital-mais-bem-sucedida-do-brasil.png");
+  background-color: #020031;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color: white;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: white;
+  margin-top: 5px;
+}
+
+input {
+  margin: 12px;
+  padding: 6px;
+  border-radius: 5px;
+  width: 40px;
+  position: relative;
+}
+
+label {
+  color: white;
+  font-size: 20px;
+  -webkit-text-stroke-width: 0.1px;
+  -webkit-text-stroke-color: black;
+}
+
+button {
+  margin-top: 6px;
+  padding: 6px 12px;
+  border-radius: 20px;
+  background: #7DD2DA;
+  position: relative;
+}
+
+h2 {
+  display: flex;
+  word-break: break-word;
+  color: white;
+  font-size: 20px;
+  -webkit-text-stroke-width: 0.2px;
+  -webkit-text-stroke-color: black;
+}
