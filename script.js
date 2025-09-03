@@ -34,6 +34,8 @@ function Calcular() {
   }
 }
 
+//exemplo de commit
+
 function imprimir(numero1, numero2, quantidadeImpressa) {
     let resultado = []
     for (var i = 1; i <= quantidadeImpressa; i++) {
